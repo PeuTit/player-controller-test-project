@@ -65,4 +65,10 @@ public class InputManager : MonoBehaviour
     {
         return playerInput.OnFoot.Crouch.triggered;
     }
+
+    public bool GetPlayerMenuEscape()
+    {
+        return playerInput.Menu.Pause.triggered;
+        
+    }
 }
