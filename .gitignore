@@ -25,6 +25,8 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
+[Ss]amples/
+Samples.meta
 Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
